@@ -1,7 +1,6 @@
 ### Bem vindo(a)! Eu sou o Carlos Vinícius | Hello and welcome! I'm Carlos Vinícius
 
 - 🐍 Estudando Python | Studying Python
-- 📕 Português e CEFR nível B1 em inglês | Portuguese and CEFR level B1 in English
 
 <div class="card-container">
     <div class="card">
